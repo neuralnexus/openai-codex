@@ -55,4 +55,4 @@ jobs:
         run: npm ci
 
       - name: Check formatting (root)
-        run: npm run format
+        run: npm run format\n
